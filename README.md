@@ -1,1 +1,1 @@
-(https://github.com/samrattayade/PHP_crud_app/blob/main/comp.jpg)
+([https://github.com/samrattayade/PHP_crud_app/blob/main/comp.jpg])
